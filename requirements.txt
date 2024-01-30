@@ -1,0 +1,6 @@
+litestar[standard]
+advanced_alchemy
+sqlalchemy
+asyncpg
+pydantic
+pydantic_settings
