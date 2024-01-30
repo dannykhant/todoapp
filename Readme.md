@@ -48,6 +48,6 @@ litestar run --debug
 
 Danny Khant - dannypmkhant@gmail.com
 
-Project Link: [https://github.com/dannykhant/repo_name](https://github.com/dannykhant/repo_name)
+Project Link: [https://github.com/dannykhant/todoapp](https://github.com/dannykhant/todoapp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
